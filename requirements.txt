@@ -1,0 +1,6 @@
+# ISC-Patentfamilie Module 15-17
+# Keine externen Abhängigkeiten für die Kernmodule
+# Nur Python Standard-Bibliothek erforderlich
+
+# Optional für Tests (nicht zwingend)
+pytest>=7.4.0
