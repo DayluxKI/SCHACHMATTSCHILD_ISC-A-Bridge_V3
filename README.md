@@ -28,4 +28,4 @@ bericht = eco.analysiere(quellcode)
 
 print(bericht.status.value)      # bellard_optimal / standard_effizient / blockiert
 print(bericht.final_score)       # Energie-Score
-print(bericht.optimierungshinweis)
+print(bericht.optimierungshinweis)# SCHACHMATTSCHILD_ISC-A-Bridge_V3
